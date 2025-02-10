@@ -1,1 +1,3 @@
 hi
+
+hi there, This is the software engineering assignment -2 about GitHub.
